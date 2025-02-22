@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanucara&label=Profile%20views&color=0e75b6&style=flat" alt="kaanucara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaanucara" alt="kaanucara" /></a> </p>
-
 - 🌱 I’m currently learning **AI systems and architectures**
 
 - 👯 I’m looking to collaborate on **AI development Projects**
