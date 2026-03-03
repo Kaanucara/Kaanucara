@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanucara&label=Profile%20views&color=0e75b6&style=flat" alt="kaanucara" /> </p>
 
-- 🌱 I’m currently learning **AI systems and architectures**
+- I’m currently developing **AI systems and architectures**
 
-- 👯 I’m looking to collaborate on **AI development Projects**
+- I’m looking to collaborate on **AI development Projects**
 
-- 📫 How to reach me **kaanucar.ce@gmail.com**
+- How to reach me **kaanucar.ce@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
